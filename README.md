@@ -22,6 +22,8 @@ To build a predictive model that classifies the severity of road accidents based
 - Identified **lighting conditions** and **weather** as critical predictors of accident severity.  
 - Visualizations: Confusion Matrix, Severity Distribution, Feature Importance, and Correlation Heatmaps.
 
+---
+
 ## Repository Structure
 📂 Road-Accident-Severity-Predictor
 
@@ -33,10 +35,14 @@ To build a predictive model that classifies the severity of road accidents based
  
  ┣ 📜 Report.pdf        ← final project report
 
+---
+
 ## Future Work
 - Handle class imbalance with SMOTE / class weights.
 - Try Gradient Boosting and Deep Learning models.
 - Deploy as a web dashboard for real-time predictions.
+
+---
 
 ## References
 - K. Kumar and A. Toshniwal, "A data mining framework to analyze road accident data," Journal of Big Data, vol. 2, no. 1, pp. 1-15, 2015.
