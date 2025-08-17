@@ -22,10 +22,15 @@ To build a predictive model that classifies the severity of road accidents based
 - Identified **lighting conditions** and **weather** as critical predictors of accident severity.  
 - Visualizations: Confusion Matrix, Severity Distribution, Feature Importance, and Correlation Heatmaps.
 
+## Repository Structure
 📂 Road-Accident-Severity-Predictor
+
  ┣ 📜 README.md        ← clean project overview
+ 
  ┣ 📜 Road_Accident_Severity_Predictor.ipynb  ← main code
+ 
  ┣ 📜 Accident.csv      ← dataset 
+ 
  ┣ 📜 Report.pdf        ← final project report
 
 ## Future Work
